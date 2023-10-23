@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testform3.git/static/css/main.97c97561.css",
+    "main.js": "/testform3.git/static/js/main.03965fbb.js",
+    "index.html": "/testform3.git/index.html",
+    "main.97c97561.css.map": "/testform3.git/static/css/main.97c97561.css.map",
+    "main.03965fbb.js.map": "/testform3.git/static/js/main.03965fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c97561.css",
+    "static/js/main.03965fbb.js"
+  ]
+}
